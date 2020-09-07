@@ -5,7 +5,7 @@
 JDK8
 
 ### 使用方法:
-下载src,导入src， export to Runnable jar file
+下载工程并导入， 然后export to Runnable jar file，或者自己打包
 
 ### 特性
 * 自动接码，如果不能用可以尝试替换application.prop里面的smsurl和smsno
